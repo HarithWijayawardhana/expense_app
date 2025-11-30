@@ -1,0 +1,20 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "title": "Lunch",
+      "category": "Food",
+      "amount": 8.5,
+      "date": "2025-11-28",
+      "description": "Cafe near office"
+    },
+    {
+      "id": "2",
+      "title": "Bus Ticket",
+      "category": "Transport",
+      "amount": 1.2,
+      "date": "2025-11-27",
+      "description": "To client meeting"
+    }
+  ]
+}
